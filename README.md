@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning writing and coding
 - 💞️ I’m looking to collaborate on my new web blog backlinks
 - 📫 How to reach me  
+- would you like to see my hindi blog :- https://www.aapkimedia.com/
+- My Wordpress Site :- https://www.lalquilaexpress.com/
 
 <!---
 Krishbankhela/Krishbankhela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
